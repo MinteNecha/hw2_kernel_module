@@ -1,6 +1,6 @@
 obj-m += hw2.o
 
-hw2-objs := user_details.o libEncrypt.o
+hw2-objs := main.o libEncrypt.o
 
 
 all:
